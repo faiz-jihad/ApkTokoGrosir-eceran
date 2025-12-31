@@ -392,14 +392,14 @@ MIT License - lihat [LICENSE](LICENSE) untuk detail
 
 ## 👨‍💻 Tim Pengembang
 
-- **Project Lead** - [Nama Anda]
-- **Backend Developer** - [Nama Anda]
-- **Frontend Developer** - [Nama Anda]
-- **UI/UX Designer** - [Nama Anda]
+- **Project Lead** - Faiz Jihad A
+- **Backend Developer** - Ivan Febriansyah
+- **Frontend Developer** - Tino NC
+- **UI/UX Designer** - Affan R
 
 ## 📞 Kontak & Support
 
-- **Email**: support@toko-roni.com
+- **Email**: faizalba74@gmail.com
 - **Issues**: [GitHub Issues](https://github.com/yourusername/toko-roni/issues)
 - **Documentation**: [Wiki](https://github.com/yourusername/toko-roni/wiki)
 
